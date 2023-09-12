@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "-": "^0.0.1",
+    "@types/chalk": "^2.2.0",
+    "@types/chalk-animation": "^1.6.1",
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "g": "^2.0.1",
+    "inquirer": "^9.2.10",
+    "typescript": "^5.2.2"
+  },
+  "name": "piaic-project-1",
+  "version": "1.0.0",
+  "main": "Main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
